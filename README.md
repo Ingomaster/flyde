@@ -11,3 +11,5 @@ Placing and deleting system
 A table of object-related functions
 UI objects
 Absolutely nothing
+
+I made the sprites in my project myself using Pinta, the sounds are from freesound.org
