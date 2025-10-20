@@ -13,3 +13,6 @@ UI objects
 Absolutely nothing
 
 I made the sprites in my project myself using Pinta, the sounds are from freesound.org
+Create sound: https://freesound.org/people/djericmark/sounds/733144/
+Delete sound: https://freesound.org/people/qubodup/sounds/826162/
+Ambience sound: https://freesound.org/people/dhallcomposer/sounds/697217/
